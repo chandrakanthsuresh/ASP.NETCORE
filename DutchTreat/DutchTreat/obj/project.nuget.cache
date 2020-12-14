@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bUz8bkWpBpPuxgxP9wQuPXwq/8O3x7ct0RTuUoPK+AHNSx6SWjbJEP/DdRcVc2sMtv9McNGAwp9/P/n7PzdmYA==",
+  "dgSpecHash": "6wYMmjHbY2iiomif1Q2mJOvKhPP5NQYpaQkPZphv6Qt+hVEdeGMQHHoj97wZHIehhHc9IRf+gwtfzyGnkpuLqA==",
   "success": true,
-  "projectFilePath": "C:\\dotnet\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chand\\.nuget\\packages\\node.js\\5.3.0\\node.js.5.3.0.nupkg.sha512",
+    "C:\\Users\\chand\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

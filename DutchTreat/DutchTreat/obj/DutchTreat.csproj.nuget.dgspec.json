@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\DutchTreat\\DutchTreat\\DutchTreat.csproj": {}
+    "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\DutchTreat.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\DutchTreat\\DutchTreat\\DutchTreat.csproj": {
+    "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\DutchTreat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+        "projectUniqueName": "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
         "projectName": "DutchTreat",
-        "projectPath": "C:\\dotnet\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+        "projectPath": "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
         "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\DutchTreat\\DutchTreat\\obj\\",
+        "outputPath": "C:\\dotnet\\ASP.NETCORE\\DutchTreat\\DutchTreat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Node.js": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "OdeToCode.UseNodeModules": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
